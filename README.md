@@ -1,11 +1,11 @@
 # Halo, I am Rico! 👋
 
-Saya seorang pengembang perangkat lunak dengan minat dalam pengembangan aplikasi Flutter, backend menggunakan Go atau Laravel, dan pengembangan RPA (Robotic Process Automation). Saya memiliki pengetahuan dan keterampilan di tingkat junior dalam ketiga bidang tersebut.
+Saya seorang pengembang perangkat lunak dengan minat dalam pengembangan aplikasi Flutter, backend menggunakan Express js atau Laravel, dan pengembangan RPA (Robotic Process Automation). Saya memiliki pengetahuan dan keterampilan di tingkat junior dalam ketiga bidang tersebut.
 
 ## Kemampuan
 
 - 💙 Flutter Development
-- 💻 Backend Development (Go atau Laravel)
+- 💻 Backend Development (Express Js atau Laravel)
 - 🤖 RPA Development
 
 <!-- ## Pengalaman
